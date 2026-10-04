@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Shrouk 👋
 
-<!--
-**Shrouk883/Shrouk883** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student interested in Software Engineering
+and Artificial Intelligence / Machine Learning.
 
-Here are some ideas to get you started:
+I'm currently learning Python and building projects to strengthen
+my programming and software engineering foundations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Focus
+
+- Python
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Databases
+- Software Engineering
+- Machine Learning
+- Deep Learning
+
+## 🛠️ Technologies
+
+- Python
+- Java
+- SQL
+- Git & GitHub
+
+## 📂 Featured Projects
+
+- [Python for AI Learning](https://github.com/Shrouk883/python-for-ai-learning)
+  — My ongoing Python learning journey through projects and practice.
+
+- [HealthcareApp](https://github.com/Shrouk883/HealthcareApp)
+  — A team project for a healthcare network management system using
+  Java, JavaFX, and Microsoft SQL Server.
+
+## 📚 Learning Journey
+
+I'm documenting my journey from programming fundamentals
+to Software Engineering and AI/ML through projects and practice.
