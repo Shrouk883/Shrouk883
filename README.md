@@ -3,9 +3,6 @@
 I'm a Computer Science student interested in Software Engineering
 and Artificial Intelligence / Machine Learning.
 
-I'm currently learning Python and building projects to strengthen
-my programming and software engineering foundations.
-
 ## 🎯 Current Focus
 
 - Python
